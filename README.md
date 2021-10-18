@@ -3,7 +3,7 @@
 
 ### How to get setup.
 ```bash
-git clone TODO
+git clone https://github.com/Sengolda/setup.py
 cd setup.py
 # Fill out setup.py and change folder names.
 python3 setup.py test # See if it is working.
